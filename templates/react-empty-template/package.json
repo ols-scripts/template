@@ -35,8 +35,8 @@
     "react-dom": "^16.12.0"
   },
   "devDependencies": {
-    "@ols-scripts/core": "^1.0.0",
-    "@ols-scripts/eslint-config": "^0.0.1-alpha.5",
+    "@ols-scripts/cli": "^0.0.1",
+    "@ols-scripts/eslint-config": "^0.0.1",
     "@types/node": "^13.7.4",
     "@types/prop-types": "^15.7.1",
     "@types/react": "^16.9.22",

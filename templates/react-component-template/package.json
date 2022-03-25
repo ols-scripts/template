@@ -35,9 +35,9 @@
   "dependencies": {
   },
   "devDependencies": {
-    "@ols-scripts/core": "^1.0.0",
-    "@ols-scripts/ols-component-theme-one": "^0.0.1-alpha.3",
-    "@ols-scripts/eslint-config": "^0.0.1-alpha.5",
+    "@ols-scripts/cli": "^0.0.1",
+    "@ols-scripts/component-theme-one": "^0.0.1",
+    "@ols-scripts/eslint-config": "^0.0.1",
     "@types/react": "^16.9.22",
     "@types/react-dom": "^16.9.5",
     "@types/enzyme": "^3.10.8",
